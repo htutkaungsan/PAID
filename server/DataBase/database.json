@@ -21,6 +21,22 @@
 "tabs" : [ "All", "Action", "Adult", "Drama", "Comedy", "Mature", "NTR", "School Life", "Romance", "Seinen", "Harem", "Slice of Life", "Vanilla"],
   
 "path" : "https://raw.githubusercontent.com/htutkaungsan/PAID/main/server/main/",
+  
+"description" : [ "Don't Miss it out !", "This is 2nd", "3rd Row", "Last Row" ],
+  
+"sponsor" : "",
+  
+"info_sponsor" : "",
+  
+"paid_link" : "https://m.facebook.com/XComicProduction/posts/651823682927787",
+  
+"parent_filter" : 
+  {
+  "Action" : "action",
+  "NTR Collection" : "ntr",
+  "School" : "school",
+  "You May Also Like" : "romance,comedy"
+  },
 
 "appLink1" : "",
 
