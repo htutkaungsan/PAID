@@ -1,0 +1,35 @@
+{
+
+"info_banner" : "ca-app-pub-9418933680661186/4042241692",
+
+"info_inter" : "ca-app-pub-9418933680661186/3657090705",
+
+"info_rewarded_inter" : "ca-app-pub-9418933680661186/3957964293",
+
+"read_inter" : "ca-app-pub-9418933680661186/9647783982",
+
+"download_inter" : "ca-app-pub-9418933680661186/9474725292",
+
+"download_inter_reward" : "ca-app-pub-9418933680661186/2447950815",
+
+"more_inter" : "ca-app-pub-9418933680661186/8526274003",
+
+"support_reward" : "ca-app-pub-9418933680661186/2305654040",
+
+"main_point_reward" : "ca-app-pub-9418933680661186/8440134785",
+
+"tabs" : [ "All", "Action", "Adult", "Drama", "Comedy", "Mature", "NTR", "School Life", "Romance", "Seinen", "Harem", "Slice of Life", "Vanilla"],
+
+"appLink1" : "",
+
+"appLink2" : "",
+
+"dialogMessage" : "",
+
+"isForced" : false,
+
+"isServerOn" : true,
+
+"version" : "2.0"
+
+}
