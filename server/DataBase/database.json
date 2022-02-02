@@ -36,9 +36,9 @@
   
 "parent_filter" : 
   {
-  "Drama" : "drama",
-  "NTR Collection" : "ntr",
   "School" : "school",
+  "NTR Collection" : "ntr",
+  "Drama Series" : "drama",
   "You May Also Like" : "romance,comedy"
   },
 
