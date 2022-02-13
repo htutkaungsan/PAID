@@ -52,7 +52,7 @@
 
 "isForced" : false,
 
-"isServerOn" : true,
+"isServerOn" : false,
 
 "version" : "3.0"
 
