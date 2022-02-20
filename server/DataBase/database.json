@@ -53,9 +53,9 @@
 
 "dialogMessage" : "ဗားရှင်းအသစ်ထွက်ပါပြီခင်ဗျာ... Update တင်ဖို့လိုအပ်ပါတယ် ... Download စနစ်ထည့်သွင်းထားသည့်အပြင် Error များကိုလည်း fix ထားပါတယ်",
 
-"isForced" : true,
+"isForced" : false,
 
-"isServerOn" : false,
+"isServerOn" : true,
 
 "version" : "3.1"
 
