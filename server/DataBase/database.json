@@ -55,7 +55,7 @@
 
 "isForced" : true,
 
-"isServerOn" : true,
+"isServerOn" : false,
 
 "version" : "3.1"
 
