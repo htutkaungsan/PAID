@@ -1,23 +1,23 @@
 {
-"native_id" : "ca-app-pub-9418933680661186/5842691336",
+"native_id" : "",
 
-"info_banner" : "ca-app-pub-9418933680661186/4042241692",
+"info_banner" : "",
 
-"info_inter" : "ca-app-pub-9418933680661186/3657090705",
+"info_inter" : "",
 
-"info_rewarded_inter" : "ca-app-pub-9418933680661186/3957964293",
+"info_rewarded_inter" : "",
 
-"read_inter" : "ca-app-pub-9418933680661186/9647783982",
+"read_inter" : "",
 
-"download_inter" : "ca-app-pub-9418933680661186/9474725292",
+"download_inter" : "",
 
-"download_inter_reward" : "ca-app-pub-9418933680661186/2447950815",
+"download_inter_reward" : "",
 
-"more_inter" : "ca-app-pub-9418933680661186/8526274003",
+"more_inter" : "",
 
-"support_reward" : "ca-app-pub-9418933680661186/2305654040",
+"support_reward" : "",
 
-"main_point_reward" : "ca-app-pub-9418933680661186/8440134785",
+"main_point_reward" : "",
 
 "tabs" : [ "All", "Action", "Adult", "Drama", "Comedy", "Mature", "NTR", "School Life", "Romance", "Seinen", "Harem", "Slice of Life", "Vanilla"],
   
@@ -57,6 +57,12 @@
 
 "isServerOn" : true,
 
-"version" : "3.1"
+"version" : "3.1",
+  
+"isSetMessage" : false,
+  
+"appOpenMessage" : "",
+  
+"appOpenPhoto" : "https://........"
 
 }
