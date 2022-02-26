@@ -63,6 +63,8 @@
   
 "appOpenMessage" : "",
   
-"appOpenPhoto" : "https://........"
+"appOpenPhoto" : "https://........",
+  
+"appOpenAction" : ""
 
 }
