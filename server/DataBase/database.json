@@ -59,12 +59,12 @@
 
 "version" : "3.1",
   
-"isSetMessage" : false,
+"isSetMessage" : true,
   
-"appOpenMessage" : "",
+"appOpenMessage" : "လူညစ်တစ်ယောက်ပေါ်လာတိုင်း ပေါ်လာတိုင်း ကမ္ဘာကြီး အလုပ်ရှုပ်ရပါတယ်",
   
-"appOpenPhoto" : "https://........",
+"appOpenPhoto" : "https://blogger.googleusercontent.com/img/a/AVvXsEhe7nRCGfzKm1StGeTtXq_yJRSlb-E0w4cSxJTKM_G-RdjQVcZuMKueTH5kIX6ifp12kbqlziqXOb8AHxrNUaqrvQdBTiCNyk2ZfPBKpxlFjr_aSOtsQF2Qg6Y3pxOdf6-8cIA2i5YH_qxB_OyB8kDTPc2wOigt6RYh7AdFCsM0pWxpvhZo6OJRg_ozIw=s0",
   
-"appOpenAction" : ""
+"appOpenAction" : "https://cover98.blogspot.com/2022/02/blog-post_24.html"
 
 }
