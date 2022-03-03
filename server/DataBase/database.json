@@ -21,9 +21,9 @@
 
 "tabs" : [ "All", "Action", "Adult", "Drama", "Comedy", "Mature", "NTR", "School Life", "Romance", "Seinen", "Harem", "Slice of Life", "Vanilla"],
   
-"path" : "https://raw.githubusercontent.com/htutkaungsan/PAID/main/server/main/",
+"path" : "https://raw.githubusercontent.com/htutkaungsan/TOTE001/main/server/main/",
   
-"path2.0" : "https://raw.githubusercontent.com/htutkaungsan/PAID/main/server/main/",
+"path2.0" : "https://raw.githubusercontent.com/htutkaungsan/TOTE001/main/server/main/",
   
 "path3.0" : "https://raw.githubusercontent.com/htutkaungsan/TOTE001/main/server/main/",
   
@@ -51,9 +51,9 @@
 
 "appLink2" : "https://m.apkpure.com/store/apps/details?id=com.xcomic.collection",
 
-"dialogMessage" : "ဗားရှင်းအသစ်ထွက်ပါပြီခင်ဗျာ... Update တင်ဖို့လိုအပ်ပါတယ် ... Download စနစ်ထည့်သွင်းထားသည့်အပြင် Error များကိုလည်း fix ထားပါတယ် ယခုဗားရှင်းက ပွိုင့်တွေကို ဒီနေ့ကစပြီး ဆာဗာအသစ်မှာ သိမ်းဆည်းတော့မှာ မဟုတ်ပါ...",
+"dialogMessage" : "Play Store ကနေ ဘမ်းခံထားရပါတယ် App အသစ်ကို စောင့်ပေးကြပါဦး ကျေးဇူးတင်ပါတယ် Page မှာ Paid App ဝယ်သုံးလို့လည်းရပါတယ် အားပေးကြပါဦးဗျာ",
 
-"isForced" : false,
+"isForced" : true,
 
 "isServerOn" : true,
 
