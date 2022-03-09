@@ -39,17 +39,17 @@
   "You May Also Like" : "romance,comedy"
   },
 
-"appLink1" : "https://play.google.com/store/apps/details?id=com.xcomic.collection",
+"appLink1" : "https://play.google.com/store/apps/details?id=com.xcomic.comeback",
 
-"appLink2" : "https://m.apkpure.com/store/apps/details?id=com.xcomic.collection",
+"appLink2" : "https://m.apkpure.com/store/apps/details?id=com.xcomic.comeback",
 
-"dialogMessage" : "Play Store ကနေ ဘမ်းခံထားရပါတယ် App အသစ်ကို စောင့်ပေးကြပါဦး ကျေးဇူးတင်ပါတယ် Page မှာ Paid App ဝယ်သုံးလို့လည်းရပါတယ် အားပေးကြပါဦးဗျာ",
+"dialogMessage" : "Free Version Update ရပါပြီခင်ဗျာ အခုပဲ update လိုက်ပါတော့ခင်ဗျာ",
 
 "isForced" : true,
 
 "isServerOn" : true,
   
-"isTesterOn" : true,
+"isTesterOn" : false,
 
 "version" : "1",
   
