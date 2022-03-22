@@ -53,12 +53,12 @@
 
 "version" : "1",
   
-"isSetMessage" : false,
+"isSetMessage" : true,
   
-"appOpenMessage" : "လူညစ်တစ်ယောက်ပေါ်လာတိုင်း ပေါ်လာတိုင်း ကမ္ဘာကြီး အလုပ်ရှုပ်ရပါတယ်",
+"appOpenMessage" : "XCOMIC Developer Account ဒီနေ့ပဲ ပိတ်ခံရပါတယ် ကြောငြာတွေက ညလောက်ဆို ရပ်ပြီလို့ထင်ပါတယ် အဲ့တော့ ရတုန်းလေး ပွိုင့်တွေယူထားကြပါ ကော်ဖီလေးတိုက်ကြပါ Translator အသစ်တွေအတွက် အခကြေးအပြင် လအစက Acc ကြေး ၅သောင်း အခုထပ်ဖွင့်ရင်လည်းထပ်ကုန်မှာမို့ အဲ့တာဖိုးလေးတွေပြန်ရအောင် အက်မင် လောလောဆယ် PAID APP ကိုပဲ အရင် အာရုံစိုက်ရပါဦးမယ် အားလုံး ဂရုစိုက်ကြပါ မျက်ရည်ချူတယ်မထင်စေချင်ပါ ပြန်ရတာ ခုမှ ၁၀ ရက်လောက်ပဲရှိသေးတာကို ပြန်စရမှာမို့လို့ စိတ်ဓာတ်ကျလို့ ညည်းမိတာပါ...",
   
-"appOpenPhoto" : "https://blogger.googleusercontent.com/img/a/AVvXsEhe7nRCGfzKm1StGeTtXq_yJRSlb-E0w4cSxJTKM_G-RdjQVcZuMKueTH5kIX6ifp12kbqlziqXOb8AHxrNUaqrvQdBTiCNyk2ZfPBKpxlFjr_aSOtsQF2Qg6Y3pxOdf6-8cIA2i5YH_qxB_OyB8kDTPc2wOigt6RYh7AdFCsM0pWxpvhZo6OJRg_ozIw=s0",
+"appOpenPhoto" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhmWBPTxEXehNPFxzGOtx2JIJg3LKN_oqyrqVs6gstkgd4ha6KS1g7gD9x0YGDkfCD_GO6EXCkRjwRpr7lph74NZWjNfrxzybibgnv-kJWwng9158g3r6z7xt9WCKtr9sCxtYpDJRs-D8zJqZqzomTr3W1JaspR2J1rho4yAtyPBQ7LUldi-CQ2gzPqw/s0/Server%20maintenance%20%28Poster%29-8.png",
   
-"appOpenAction" : ""
+"appOpenAction" : "https://www.facebook.com/XComicProduction/posts/713752530068235"
 
 }
