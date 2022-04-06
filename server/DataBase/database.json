@@ -47,7 +47,7 @@
 
 "isForced" : true,
 
-"isServerOn" : true,
+"isServerOn" : false,
   
 "isTesterOn" : false,
 
