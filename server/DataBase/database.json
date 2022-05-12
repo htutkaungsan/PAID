@@ -43,7 +43,7 @@
 
 "appLink2" : "https://m.apkpure.com/store/apps/details?id=com.xcomic.gfucker",
 
-"dialogMessage" : "Free Version Update ရပါပြီခင်ဗျာ အခုပဲ update လိုက်ပါတော့ခင်ဗျာ ကြယ် ၅ လုံးပေးဖို့ မမေ့နဲ့ဦးနော်",
+"dialogMessage" : "Free APP အသစ်ပြန်ရပါတော့မယ် စမ်းသပ်စရာလေးတွေရှိလို့ ခဏပိတ်ထားပါ့မယ်...",
 
 "isForced" : false,
 
@@ -53,7 +53,7 @@
 
 "version" : "2",
   
-"isSetMessage" : true,
+"isSetMessage" : false,
   
 "appOpenMessage" : "Free APP အသစ်ပြန်ရပါတော့မယ် စမ်းသပ်စရာလေးတွေရှိလို့ ခဏပိတ်ထားပါ့မယ်...",
   
