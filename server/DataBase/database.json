@@ -39,13 +39,13 @@
   "You May Also Like" : "romance,comedy"
   },
 
-"appLink1" : "https://play.google.com/store/apps/details?id=com.xcomic.gfucker",
+"appLink1" : "https://play.google.com/store/apps/details?id=com.xc.fb",
 
-"appLink2" : "https://m.apkpure.com/store/apps/details?id=com.xcomic.gfucker",
+"appLink2" : "https://m.apkpure.com/store/apps/details?id=com.xc.facebook",
 
-"dialogMessage" : "Free APP အသစ်ပြန်ရပါတော့မယ် စမ်းသပ်စရာလေးတွေရှိလို့ ခဏပိတ်ထားပါ့မယ်...",
+"dialogMessage" : "ဗားရှင်းအသစ်ထွက်ပါပြီ ခုပဲ ဒေါင်းယူလိုက်ပါ... ကြယ် ၅ လုံးလည်း ပေးခဲ့ ဦးနော် ..",
 
-"isForced" : false,
+"isForced" : true,
 
 "isServerOn" : true,
   
@@ -59,6 +59,6 @@
   
 "appOpenPhoto" : "https://blogger.googleusercontent.com/img/a/AVvXsEjW9nOuGzo4iWKit14K2k2VxmVD-L6ZxUnHM2KlgEZmTIAqAFFzY3EpXv1s-5Eily_o7tiNMC8LLJkx4BjljoDRYgKuUKmtmy90v0GO-ozFL8UE8R6W92PAQV8lA4sAiNSrCejhOjSWu643YX4Kck6Kh-QRgmfPY8UsrZGffw_QG9XYRXgMVzC4ucDGmA",
 
-"appOpenAction" : "https://play.google.com/store/apps/details?id=com.xcomic.gfucker"
+"appOpenAction" : "https://play.google.com/store/apps/details?id=com.xc.fb"
 
 }
