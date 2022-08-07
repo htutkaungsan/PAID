@@ -39,9 +39,9 @@
   "You May Also Like" : "romance,comedy"
   },
 
-"appLink1" : "https://play.google.com/store/apps/details?id=com.xc.fb",
+"appLink1" : "https://play.google.com/store/apps/details?id=khuz.blukittzan",
 
-"appLink2" : "https://m.apkpure.com/store/apps/details?id=com.xc.fb",
+"appLink2" : "https://apkpure.com/store/apps/details?id=khuz.blukittzan",
 
 "dialogMessage" : "ဗားရှင်းအသစ်ထွက်ပါပြီ ခုပဲ ဒေါင်းယူလိုက်ပါ... ကြယ် ၅ လုံးလည်း ပေးခဲ့ ဦးနော် ..",
 
@@ -51,7 +51,7 @@
   
 "isTesterOn" : false,
 
-"version" : "2",
+"version" : "1.0",
   
 "isSetMessage" : false,
   
@@ -59,6 +59,6 @@
   
 "appOpenPhoto" : "https://blogger.googleusercontent.com/img/a/AVvXsEjW9nOuGzo4iWKit14K2k2VxmVD-L6ZxUnHM2KlgEZmTIAqAFFzY3EpXv1s-5Eily_o7tiNMC8LLJkx4BjljoDRYgKuUKmtmy90v0GO-ozFL8UE8R6W92PAQV8lA4sAiNSrCejhOjSWu643YX4Kck6Kh-QRgmfPY8UsrZGffw_QG9XYRXgMVzC4ucDGmA",
 
-"appOpenAction" : "https://play.google.com/store/apps/details?id=com.xc.fb"
+"appOpenAction" : "https://apkpure.com/store/apps/details?id=khuz.blukittzan"
 
 }
